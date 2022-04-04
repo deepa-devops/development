@@ -1,0 +1,18 @@
+#! bin/ sh/
+
+a=10
+b=20
+
+add=`expr $a + $b`
+echo "sum of two nums are: $add"
+
+c=2
+d=3
+val=$[ $c + $d ]
+echo "sum= $val"
+
+
+
+
+
+
