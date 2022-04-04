@@ -1,0 +1,6 @@
+#! bin/ sh/
+a=6
+b=3
+prod=$(( $a * $b ))
+echo "product of two num : $prod"
+
