@@ -1,6 +1,7 @@
 #! bin/ sh/
 a=6
 b=3
-prod=$(( $a * $b ))
+c=6
+prod=$(( $a * $b * $c ))
 echo "product of two num : $prod"
 
